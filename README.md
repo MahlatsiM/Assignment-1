@@ -1,8 +1,8 @@
-# 📄 CV vs Job Description AI Assistant
+# CV vs Job Description AI Assistant
 
 An AI-powered tool that analyzes the match between a candidate's **CV** and a **job description**, identifies skill gaps, and provides a **career development roadmap** with both text and optional voice summaries.
 
-## 🚀 Features
+## Features
 - **CV & Job Fit Analysis**: Compares skills in your CV to those in the job posting.
 - **Skill Gap Identification**: Highlights missing skills and recommends how to fill them.
 - **30-Day Career Roadmap**: Suggests weekly actions, tools, and learning resources.
@@ -11,7 +11,7 @@ An AI-powered tool that analyzes the match between a candidate's **CV** and a **
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **[Python 3.9+](https://www.python.org/)**
 - **[Streamlit](https://streamlit.io/)** – UI framework
 - **[OpenAI API](https://platform.openai.com/)** – For CV vs Job description analysis
@@ -19,7 +19,7 @@ An AI-powered tool that analyzes the match between a candidate's **CV** and a **
 
 ---
 
-## 📋 Requirements
+## Requirements
 Install dependencies with:
 
 ```bash
